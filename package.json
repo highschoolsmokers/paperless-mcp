@@ -1,6 +1,7 @@
 {
   "name": "paperless-mcp",
   "version": "1.0.0",
+  "license": "MIT",
   "description": "MCP server for Paperless-ngx document management",
   "type": "module",
   "main": "dist/index.js",
